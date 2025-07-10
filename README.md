@@ -9,9 +9,9 @@ My name is Francis Franklin Bangoy, I'm 19 years old and a proud student of the 
 ## Programming Languages I learned
 * HTML
 * CSS
-* JAVASCRIPT
+* Javascript
 * PHP
-* REACT
-* JAVA
-* DART
-* FLUTTER
+* React
+* Java
+* Dart
+* Flutter
