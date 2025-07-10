@@ -15,3 +15,6 @@ My name is Francis Franklin Bangoy, I'm 19 years old and a proud student of the 
 * Java
 * Dart
 * Flutter
+* Node.js
+* MongoDB
+* MySQL
